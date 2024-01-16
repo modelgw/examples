@@ -12,4 +12,6 @@ Get the fastest possible response from OpenAI GPT API with [Model Gateway](https
 ## Examples
 
 * Python
-  * [OpenAI library](openai-python)
+  * [openai](openai-python)
+* Node.js
+  * [openai](openai-node)

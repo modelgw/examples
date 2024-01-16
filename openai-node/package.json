@@ -1,0 +1,12 @@
+{
+  "name": "openai-example",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node example.js"
+  },
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "openai": "^4.24.7"
+  }
+}
