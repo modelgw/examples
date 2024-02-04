@@ -17,5 +17,7 @@ Get the fastest possible response from OpenAI GPT API with [Model Gateway](https
   * [openai](openai-node)
 * Java
   * [Azure OpenAI client library for Java](java-azure-ai-openai)
+* PHP
+  * [openai-php/client](php-openai-php-client)
 * curl
   * [curl](curl)
